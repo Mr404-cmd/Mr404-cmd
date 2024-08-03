@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr404-cmd" alt="mr404-cmd" /></a> </p>
 
-- 🔭 I’m currently working at **Yellow.ai**
+- 🔭 I’m currently working at **Capgemini Technology Services India Limited**
 
 - 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for new Role **Software Engineer**
 
 - 📫 How to reach me **shubhamup109@gmail.com**
 
